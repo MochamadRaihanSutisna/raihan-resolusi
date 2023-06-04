@@ -1,2 +1,2 @@
 # raihan-resolusi
-Repository untuk menyimoan rencana Saya kedepannya
+Repository untuk menyimpan rencana Saya kedepannya
