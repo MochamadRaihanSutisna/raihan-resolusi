@@ -1,0 +1,5 @@
+RENCANA BELAJAR PROGRAMMING
+
+- memahami javascript
+- memahami html
+- memahami css
