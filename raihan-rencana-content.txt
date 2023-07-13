@@ -4,4 +4,5 @@ RENCANA BELAJAR PROGRAMMING
   > Belajar tipe data Object
   > Belajar Tipe data array
 - memahami html
+  > Belajar Membuat Website full HTML
 - memahami css
