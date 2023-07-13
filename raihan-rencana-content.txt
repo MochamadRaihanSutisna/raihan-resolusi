@@ -6,3 +6,4 @@ RENCANA BELAJAR PROGRAMMING
 - memahami html
   > Belajar Membuat Website full HTML
 - memahami css
+  > Belajar Margin dan shadow
