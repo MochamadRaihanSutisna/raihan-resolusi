@@ -6,3 +6,5 @@ RENCANA BELAJAR PROGRAMMING
 - memahami html
   > Belajar Membuat Website full HTML
 - memahami css
+- memahami github
+  > Belajar repositoris
