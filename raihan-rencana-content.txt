@@ -5,4 +5,5 @@ RENCANA BELAJAR PROGRAMMING
   > Belajar Tipe data array
 - memahami html
   > Belajar Membuat Website full HTML
+  > Belajar Memasukan gambar dan video ke HTML
 - memahami css
