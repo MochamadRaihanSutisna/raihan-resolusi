@@ -5,6 +5,7 @@ RENCANA BELAJAR PROGRAMMING
   > Belajar Tipe data array
 - memahami html
   > Belajar Membuat Website full HTML
+  > Belajar membuat tabel kotak-kotak
 - memahami css
 - memahami github
   > Belajar repositoris
