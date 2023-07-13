@@ -7,4 +7,5 @@ RENCANA BELAJAR PROGRAMMING
   > Belajar Membuat Website full HTML
   > Belajar membuat tabel kotak-kotak
 - memahami css
-  > Belajar Margin dan shadow
+- memahami github
+  > Belajar repositoris
