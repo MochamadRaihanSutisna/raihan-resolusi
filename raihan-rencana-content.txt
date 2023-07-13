@@ -1,0 +1,7 @@
+RENCANA BELAJAR PROGRAMMING
+
+- memahami javascript
+  > Belajar tipe data Object
+  > Belajar Tipe data array
+- memahami html
+- memahami css
